@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Foody" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/text_color</item>
+    </style>
+    <style name="Theme.Foody" parent="Base.Theme.Foody" />
+</resources>

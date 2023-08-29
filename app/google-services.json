@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "607697046701",
+    "project_id": "foody-ed631",
+    "storage_bucket": "foody-ed631.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607697046701:android:c5843c0b6d6ab282e08a24",
+        "android_client_info": {
+          "package_name": "com.noctambulist.foody"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607697046701-0ptr8hth1ffscs7coe21g6dh374j44me.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHET9eKZ_dqQ4q97KPB_cTCWICQt6-4D4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607697046701-0ptr8hth1ffscs7coe21g6dh374j44me.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
