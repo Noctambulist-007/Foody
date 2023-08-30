@@ -4,27 +4,7 @@ Foody is a fast food delivery app designed to provide users with a convenient wa
 
 # App Preview
 
-<div align="center">
-![Screenshot_20230829_222816](https://github.com/Noctambulist-007/Foody/assets/137734510/a8507566-9f36-4752-8883-2fd9a75f35c0)
-![Screenshot_20230829_222801](https://github.com/Noctambulist-007/Foody/assets/137734510/de54f548-a71d-4ca1-8c9c-6c097f15feab)
-![Screenshot_20230829_222748](https://github.com/Noctambulist-007/Foody/assets/137734510/53a4cbab-a06f-4386-a25b-b814a21d9096)
-![Screenshot_20230829_222743](https://github.com/Noctambulist-007/Foody/assets/137734510/98587dd6-b644-4aef-ba19-61a874cbc619)
-![Screenshot_20230829_222737](https://github.com/Noctambulist-007/Foody/assets/137734510/31dde121-ca17-4ac8-b9e2-628a380e9795)
-![Screenshot_20230829_222728](https://github.com/Noctambulist-007/Foody/assets/137734510/48585995-e318-47f6-95dc-fca88a08fc06)
-![Screenshot_20230829_222646](https://github.com/Noctambulist-007/Foody/assets/137734510/d89ed231-0ef3-4009-87c6-a6d8f9fba282)
-![Screenshot_20230829_222636](https://github.com/Noctambulist-007/Foody/assets/137734510/fd173b28-a048-40dc-83e4-d7617dbcb74d)
-![Screenshot_20230829_222628](https://github.com/Noctambulist-007/Foody/assets/137734510/044ec6f7-60d8-4b94-abc6-222133fe858a)
-![Screenshot_20230829_222523](https://github.com/Noctambulist-007/Foody/assets/137734510/2df69778-471d-4e00-95eb-1e1373c883ca)
-![Screenshot_20230829_222430](https://github.com/Noctambulist-007/Foody/assets/137734510/1fd77edb-b2e1-4261-ab62-573a5e884585)
-![Screenshot_20230829_222425](https://github.com/Noctambulist-007/Foody/assets/137734510/2a743429-58a2-4dfc-957a-a97b3414502d)
-![Screenshot_20230829_222408](https://github.com/Noctambulist-007/Foody/assets/137734510/3f7a3dc5-56ef-4e00-a0a2-ff821b5a31c9)
-![Screenshot_20230829_222311](https://github.com/Noctambulist-007/Foody/assets/137734510/2a37984d-c12b-4186-a581-0c9a02c165a0)
-![Screenshot_20230829_222303](https://github.com/Noctambulist-007/Foody/assets/137734510/4be418a2-08e0-4aa9-b590-cb94131db261)
-![Screenshot_20230829_222258](https://github.com/Noctambulist-007/Foody/assets/137734510/9efd8d99-8129-42a0-b184-285b0db7aeae)
-![Screenshot_20230829_222253](https://github.com/Noctambulist-007/Foody/assets/137734510/2f728d67-9d83-4020-af3b-f87822023f00)
-![Screenshot_20230829_222248](https://github.com/Noctambulist-007/Foody/assets/137734510/e33b34fd-9828-4243-a61d-afc5a4a8870f)
-
-</div>
+![Screenshot_20230829_222248](https://github.com/Noctambulist-007/Foody/assets/137734510/b76816b3-56e5-4936-8ad1-921dab496bcb)
 
 ## Features
 
