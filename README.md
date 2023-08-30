@@ -8,7 +8,7 @@ Foody is a fast food delivery app designed to provide users with a convenient wa
 
 # App Preview (Video)
 
-[Wtxi23y83Ng](https://www.youtube.com/watch?v=Wtxi23y83Ng)
+[Foody Tutorial](https://www.youtube.com/watch?v=Wtxi23y83Ng)
 
 # App Preview (Screenshots)
 
