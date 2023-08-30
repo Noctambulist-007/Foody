@@ -59,10 +59,10 @@ We are committed to continuously improving Foody and adding new features to enha
 
 Foody relies on the following libraries and technologies:
 
+- [Rive](https://rive.app/): Incorporates dynamic animations and visuals.
 - [Lottie](https://github.com/airbnb/lottie-android): Adds dynamic and attractive animations to the app.
 - [SDP](https://github.com/intuit/sdp): Responsive screen dimensions library for better UI across devices.
 - [SSP](https://github.com/intuit/ssp): Responsive font sizes library for consistent typography.
-- [Rive](https://rive.app/): Incorporates dynamic animations and visuals.
 - [Navigation Component](https://developer.android.com/guide/navigation): Manages navigation flow between fragments.
 - [Glide](https://github.com/bumptech/glide): Efficient image loading and caching library.
 - [Dagger Hilt](https://dagger.dev/hilt/): Simplifies dependency injection.
