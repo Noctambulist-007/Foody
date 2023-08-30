@@ -1,6 +1,6 @@
 # Foody - Fast Food Delivery App
 
-Foody is a fast food delivery app designed to provide users with a convenient way to order delicious meals from various restaurants. The app aims to enhance the fast food delivery experience and allow merchants to showcase their menu items effectively.
+Foody is a fast food delivery app designed to provide users with a convenient way to order delicious meals. The app aims to enhance the fast food delivery experience and allow merchants to showcase their menu items effectively.
 
 ## Download
 
