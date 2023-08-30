@@ -4,7 +4,7 @@ Foody is a fast food delivery app designed to provide users with a convenient wa
 
 # App Preview
 
-![Screenshot_20230829_222248](https://github.com/Noctambulist-007/Foody/assets/137734510/b76816b3-56e5-4936-8ad1-921dab496bcb)
+[Preview.pdf](https://github.com/Noctambulist-007/Foody/files/12471310/Preview.pdf)
 
 ## Features
 
