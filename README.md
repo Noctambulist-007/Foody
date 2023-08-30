@@ -7,7 +7,7 @@ Foody is a fast food delivery app designed to provide users with a convenient wa
 [Foody.apk](https://www.mediafire.com/file/j5h9obftqtktkj5/Foody.apk/file)
 
 # App Preview (Video)
-[![Preview](https://img.youtube.com/vi/jQ8dZwTw8wQ)](https://www.youtube.com/watch?v=jQ8dZwTw8wQ)
+[![Preview](https://www.youtube.com/watch?v=Wtxi23y83Ng)](https://www.youtube.com/watch?v=jQ8dZwTw8wQ)
 
 # App Preview (Screenshots)
 
