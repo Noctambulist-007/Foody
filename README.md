@@ -2,6 +2,10 @@
 
 Foody is a fast food delivery app designed to provide users with a convenient way to order delicious meals from various restaurants. The app aims to enhance the fast food delivery experience and allow merchants to showcase their menu items effectively.
 
+## Download
+
+[Foody.apk](https://www.mediafire.com/file/j5h9obftqtktkj5/Foody.apk/file)
+
 # App Preview
 
 ![Preview](https://github.com/Noctambulist-007/Foody/assets/137734510/e751fafe-69af-4604-a70b-108286809a7f)
@@ -17,10 +21,6 @@ Foody is a fast food delivery app designed to provide users with a convenient wa
 - Coroutines for background tasks and asynchronous operations, ensuring smooth app performance.
 - View Binding to simplify view interaction by reducing manual view inflation.
 - Glide library for efficient image loading and caching.
-
-## Download
-
-[Foody.apk](https://www.mediafire.com/file/j5h9obftqtktkj5/Foody.apk/file)
 
 ## Admin Panel App
 
