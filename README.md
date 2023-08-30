@@ -41,10 +41,10 @@ Foody relies on the following libraries and technologies:
 
 - [Rive](https://rive.app/): Incorporates dynamic animations and visuals.
 - [Lottie](https://github.com/airbnb/lottie-android): Adds dynamic and attractive animations to the app.
-- [SDP](https://github.com/intuit/sdp): Responsive screen dimensions library for better UI across devices.
 - [MotionLayout](https://developer.android.com/training/constraint-layout/motionlayout): Creates smooth and complex animations between UI states.
 - [ViewBinding](https://developer.android.com/topic/libraries/view-binding): Generates type-safe view references, improving view interaction in your app.
 - [SSP](https://github.com/intuit/ssp): Responsive font sizes library for consistent typography.
+- [SDP](https://github.com/intuit/sdp): Responsive screen dimensions library for better UI across devices.
 - [Navigation Component](https://developer.android.com/guide/navigation): Manages navigation flow between fragments.
 - [Glide](https://github.com/bumptech/glide): Efficient image loading and caching library.
 - [Dagger Hilt](https://dagger.dev/hilt/): Simplifies dependency injection.
