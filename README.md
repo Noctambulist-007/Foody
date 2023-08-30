@@ -20,7 +20,7 @@ Foody is a fast food delivery app designed to provide users with a convenient wa
 
 ## Download
 
-You can download the latest version of Foody from the following link:
+You can download the latest version of Foody from the following link: [Foody.apk](https://www.mediafire.com/file/j5h9obftqtktkj5/Foody.apk/file)
 
 ## Admin Panel App
 
