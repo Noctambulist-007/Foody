@@ -1,4 +1,7 @@
-# Foody - Fast Food Delivery App
+# Foody
+A Fast Food Delivery App
+
+![Preview](https://muhammadsajedulislam.com/wp-content/uploads/2024/04/Purple-And-White-Modern-Mobile-App-Promotion-Instagram-Post-11.png)
 
 Foody is a fast food delivery app designed to provide users with a convenient way to order delicious meals. The app aims to enhance the fast food delivery experience and allow merchants to showcase their menu items effectively.
 
@@ -9,10 +12,6 @@ Foody is a fast food delivery app designed to provide users with a convenient wa
 # App Preview (Video)
 
 [Foody Tutorial](https://www.youtube.com/watch?v=Wtxi23y83Ng)
-
-# App Preview (Screenshots)
-
-![Preview](https://github.com/Noctambulist-007/Foody/assets/137734510/e751fafe-69af-4604-a70b-108286809a7f)
 
 ## Features
 
